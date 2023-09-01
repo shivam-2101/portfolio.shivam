@@ -939,6 +939,38 @@ span {
     .contact form .input-box input{
         width: 100%;
     }
+
+
+    .footer p{
+        text-align: center;
+        margin-top: 2rem;
+        margin-left: 50px;
+    }
+
+    .em-mob-info {
+        text-align: center;
+        margin: 0 auto;
+        padding-left:100px ;
+    }
+
+    .em-mob-info a {
+        display: block;
+        margin-top: 1rem;
+        color: var(--main-color);
+        text-decoration: none;
+    }
+
+    .em-mob-info a .icon {
+        font-size: 2rem;
+        margin-right: 0.5rem;
+        color: var(--main-color);
+        padding: 2rem;
+    }
+
+    .em-mob-info a strong {
+        font-weight: bold;
+        color: var(--text-color);
+    }
 }
 
 @media (max-width: 365px){
