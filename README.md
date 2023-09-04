@@ -3,7 +3,7 @@
 
 # Welcome to my portfolio website!
 
-This website showcases my skills, projects, and experiences.
+This website showcases my skills and projects.
 
 It is built using HTML, CSS, and JavaScript, and all the data is dynamically fetched from a Google Sheet.
 
