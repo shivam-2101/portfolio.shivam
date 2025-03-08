@@ -106,7 +106,7 @@ You can click on project cards to view detailed project information and click on
 If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out to me:
 
 
- Email: shuklas2295@gmail.com
+ Email: work.shivam2003@gmail.com
 
 
 
